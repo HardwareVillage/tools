@@ -1,0 +1,9 @@
+[submodule "programmers/tl866/minipro"]
+	path = programmers/tl866/minipro
+	url = https://github.com/vdudouyt/minipro
+[submodule "programmers/tl866/qtl866"]
+	path = programmers/tl866/qtl866
+	url = https://github.com/wd5gnr/qtl866
+[submodule "programmers/tl866/TL866"]
+	path = programmers/tl866/TL866
+	url = https://github.com/radiomanV/TL866
