@@ -7,3 +7,9 @@
 [submodule "programmers/tl866/TL866"]
 	path = programmers/tl866/TL866
 	url = https://github.com/radiomanV/TL866
+[submodule "interfaces/serial/Baudrate.py"]
+	path = interfaces/serial/Baudrate.py
+	url = https://github.com/719Ben/Baudrate.py
+[submodule "interfaces/serial/jpnevulator.py"]
+	path = interfaces/serial/jpnevulator.py
+	url = https://github.com/pklaus/jpnevulator.py
