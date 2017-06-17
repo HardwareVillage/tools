@@ -13,3 +13,15 @@
 [submodule "interfaces/serial/jpnevulator.py"]
 	path = interfaces/serial/jpnevulator.py
 	url = https://github.com/pklaus/jpnevulator.py
+[submodule "interfaces/usb/goodfet"]
+	path = interfaces/usb/goodfet
+	url = git://github.com/travisgoodspeed/goodfet.git
+[submodule "interfaces/usb/umap2"]
+	path = interfaces/usb/umap2
+	url = git://github.com/nccgroup/umap2.git
+[submodule "interfaces/usb/umap"]
+	path = interfaces/usb/umap
+	url = git://github.com/nccgroup/umap.git
+[submodule "interfaces/usb/Facedancer"]
+	path = interfaces/usb/Facedancer
+	url = git://github.com/ktemkin/Facedancer.git
