@@ -151,3 +151,6 @@
 [submodule "interfaces/logic_analyzer/saleae/Wiegand-Analyzer"]
 	path = interfaces/logic_analyzer/saleae/Wiegand-Analyzer
 	url = https://github.com/osok/Wiegand-Analyzer
+[submodule "firmware"]
+	path = firmware
+	url = https://github.com/0x90/firmware-arsenal
