@@ -25,3 +25,9 @@
 [submodule "interfaces/usb/Facedancer"]
 	path = interfaces/usb/Facedancer
 	url = git://github.com/ktemkin/Facedancer.git
+[submodule "interfaces/serial/slsnif"]
+	path = interfaces/serial/slsnif
+	url = https://github.com/aeruder/slsnif
+[submodule "interfaces/serial/baudrate"]
+	path = interfaces/serial/baudrate
+	url = https://github.com/devttys0/baudrate
