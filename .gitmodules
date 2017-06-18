@@ -31,3 +31,123 @@
 [submodule "interfaces/serial/baudrate"]
 	path = interfaces/serial/baudrate
 	url = https://github.com/devttys0/baudrate
+[submodule "interfaces/logic_analyzer/saleae/AnalyzerSDK"]
+	path = interfaces/logic_analyzer/saleae/AnalyzerSDK
+	url = https://github.com/saleae/AnalyzerSDK
+[submodule "interfaces/logic_analyzer/saleae/sniffROM"]
+	path = interfaces/logic_analyzer/saleae/sniffROM
+	url = https://github.com/alainiamburg/sniffROM
+[submodule "interfaces/logic_analyzer/saleae/SampleAnalyzer"]
+	path = interfaces/logic_analyzer/saleae/SampleAnalyzer
+	url = https://github.com/saleae/SampleAnalyzer
+[submodule "interfaces/logic_analyzer/saleae/MBusAnalyzer"]
+	path = interfaces/logic_analyzer/saleae/MBusAnalyzer
+	url = https://github.com/mbus/MBusAnalyzer
+[submodule "interfaces/logic_analyzer/saleae/saleaetools"]
+	path = interfaces/logic_analyzer/saleae/saleaetools
+	url = https://github.com/devttys0/saleaetools
+[submodule "interfaces/logic_analyzer/saleae/saleae-nxp-nfc-reader-analyzer"]
+	path = interfaces/logic_analyzer/saleae/saleae-nxp-nfc-reader-analyzer
+	url = https://github.com/christianeisendle/saleae-nxp-nfc-reader-analyzer
+[submodule "interfaces/logic_analyzer/saleae/noob"]
+	path = interfaces/logic_analyzer/saleae/noob
+	url = https://github.com/akacastor/noob
+[submodule "interfaces/logic_analyzer/saleae/saleae-logic-libusb"]
+	path = interfaces/logic_analyzer/saleae/saleae-logic-libusb
+	url = https://github.com/keesj/saleae-logic-libusb
+[submodule "interfaces/logic_analyzer/saleae/saleae_spiflash"]
+	path = interfaces/logic_analyzer/saleae/saleae_spiflash
+	url = https://github.com/kasjer/saleae_spiflash
+[submodule "interfaces/logic_analyzer/saleae/SaleaeSWDAnalyzer"]
+	path = interfaces/logic_analyzer/saleae/SaleaeSWDAnalyzer
+	url = https://github.com/majbthrd/SaleaeSWDAnalyzer
+[submodule "interfaces/logic_analyzer/saleae/SaleaeNECIR"]
+	path = interfaces/logic_analyzer/saleae/SaleaeNECIR
+	url = https://github.com/seblovett/SaleaeNECIR
+[submodule "interfaces/logic_analyzer/saleae/saleae-logic-analyzer-remote"]
+	path = interfaces/logic_analyzer/saleae/saleae-logic-analyzer-remote
+	url = https://github.com/thomasnordquist/saleae-logic-analyzer-remote
+[submodule "interfaces/logic_analyzer/saleae/python-saleae"]
+	path = interfaces/logic_analyzer/saleae/python-saleae
+	url = https://github.com/ppannuto/python-saleae
+[submodule "interfaces/logic_analyzer/saleae/logic-jitter"]
+	path = interfaces/logic_analyzer/saleae/logic-jitter
+	url = https://github.com/sbourdelin/logic-jitter
+[submodule "interfaces/logic_analyzer/saleae/pySaleae"]
+	path = interfaces/logic_analyzer/saleae/pySaleae
+	url = https://github.com/markmelvin/pySaleae
+[submodule "interfaces/logic_analyzer/saleae/SaleaeSDIOAnalyzer"]
+	path = interfaces/logic_analyzer/saleae/SaleaeSDIOAnalyzer
+	url = https://github.com/ewfuentes/SaleaeSDIOAnalyzer
+[submodule "interfaces/logic_analyzer/saleae/JtagAnalyzer"]
+	path = interfaces/logic_analyzer/saleae/JtagAnalyzer
+	url = https://github.com/saleae/JtagAnalyzer
+[submodule "interfaces/logic_analyzer/saleae/SwdAnalyzer"]
+	path = interfaces/logic_analyzer/saleae/SwdAnalyzer
+	url = https://github.com/saleae/SwdAnalyzer
+[submodule "interfaces/logic_analyzer/saleae/logic-pwm"]
+	path = interfaces/logic_analyzer/saleae/logic-pwm
+	url = https://github.com/dustin/logic-pwm
+[submodule "interfaces/logic_analyzer/saleae/ReadSaleae"]
+	path = interfaces/logic_analyzer/saleae/ReadSaleae
+	url = https://github.com/AshleySetter/ReadSaleae
+[submodule "interfaces/logic_analyzer/saleae/sl-apdu"]
+	path = interfaces/logic_analyzer/saleae/sl-apdu
+	url = https://github.com/zwizwa/sl-apdu
+[submodule "interfaces/logic_analyzer/saleae/saleaeLogicCSV2wav"]
+	path = interfaces/logic_analyzer/saleae/saleaeLogicCSV2wav
+	url = https://github.com/nsluhrs/saleaeLogicCSV2wav
+[submodule "interfaces/logic_analyzer/saleae/saleae-logic-SimpleParallelNoClock-Analyzer"]
+	path = interfaces/logic_analyzer/saleae/saleae-logic-SimpleParallelNoClock-Analyzer
+	url = https://github.com/Zweikeks/saleae-logic-SimpleParallelNoClock-Analyzer
+[submodule "interfaces/logic_analyzer/saleae/DRAMAnalyzer"]
+	path = interfaces/logic_analyzer/saleae/DRAMAnalyzer
+	url = https://github.com/stevenmburns/DRAMAnalyzer
+[submodule "interfaces/logic_analyzer/saleae/Parse_I2C"]
+	path = interfaces/logic_analyzer/saleae/Parse_I2C
+	url = https://github.com/Evilpaul/Parse_I2C
+[submodule "interfaces/logic_analyzer/saleae/Parse_SPI"]
+	path = interfaces/logic_analyzer/saleae/Parse_SPI
+	url = https://github.com/Evilpaul/Parse_SPI
+[submodule "interfaces/logic_analyzer/saleae/logic-ws2812"]
+	path = interfaces/logic_analyzer/saleae/logic-ws2812
+	url = https://github.com/dustin/logic-ws2812
+[submodule "interfaces/logic_analyzer/saleae/logic-cppm"]
+	path = interfaces/logic_analyzer/saleae/logic-cppm
+	url = https://github.com/dustin/logic-cppm
+[submodule "interfaces/logic_analyzer/saleae/saleae-sdram"]
+	path = interfaces/logic_analyzer/saleae/saleae-sdram
+	url = https://github.com/wtfuzz/saleae-sdram
+[submodule "interfaces/logic_analyzer/saleae/saleae_parsers"]
+	path = interfaces/logic_analyzer/saleae/saleae_parsers
+	url = https://github.com/erelson/saleae_parsers
+[submodule "interfaces/logic_analyzer/saleae/saleae-logic-ISO7816-smartcard-Analyser"]
+	path = interfaces/logic_analyzer/saleae/saleae-logic-ISO7816-smartcard-Analyser
+	url = https://github.com/dirkx/saleae-logic-ISO7816-smartcard-Analyser
+[submodule "interfaces/logic_analyzer/saleae/saleae_i2s_logger"]
+	path = interfaces/logic_analyzer/saleae/saleae_i2s_logger
+	url = https://github.com/ekoeppen/saleae_i2s_logger
+[submodule "interfaces/logic_analyzer/saleae/pyla"]
+	path = interfaces/logic_analyzer/saleae/pyla
+	url = https://github.com/zwizwa/pyla
+[submodule "interfaces/logic_analyzer/saleae/jtaglogic"]
+	path = interfaces/logic_analyzer/saleae/jtaglogic
+	url = https://github.com/themadinventor/jtaglogic
+[submodule "interfaces/logic_analyzer/saleae/sbwlogic"]
+	path = interfaces/logic_analyzer/saleae/sbwlogic
+	url = https://github.com/themadinventor/sbwlogic
+[submodule "interfaces/logic_analyzer/saleae/ManchesterAnalyzer"]
+	path = interfaces/logic_analyzer/saleae/ManchesterAnalyzer
+	url = https://github.com/saleae/ManchesterAnalyzer
+[submodule "interfaces/logic_analyzer/saleae/SaleaeSocketApi"]
+	path = interfaces/logic_analyzer/saleae/SaleaeSocketApi
+	url = https://github.com/saleae/SaleaeSocketApi
+[submodule "interfaces/logic_analyzer/saleae/PCM2Wav-py"]
+	path = interfaces/logic_analyzer/saleae/PCM2Wav-py
+	url = https://github.com/roel0/PCM2Wav-py
+[submodule "interfaces/logic_analyzer/saleae/sdmmc-analyzer"]
+	path = interfaces/logic_analyzer/saleae/sdmmc-analyzer
+	url = https://github.com/dirker/sdmmc-analyzer
+[submodule "interfaces/logic_analyzer/saleae/Wiegand-Analyzer"]
+	path = interfaces/logic_analyzer/saleae/Wiegand-Analyzer
+	url = https://github.com/osok/Wiegand-Analyzer
