@@ -154,3 +154,6 @@
 [submodule "firmware"]
 	path = firmware
 	url = https://github.com/0x90/firmware-arsenal
+[submodule "interfaces/pci/pcimem"]
+	path = interfaces/pci/pcimem
+	url = https://github.com/billfarrow/pcimem
