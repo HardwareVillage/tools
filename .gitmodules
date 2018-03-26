@@ -157,3 +157,6 @@
 [submodule "interfaces/pci/pcimem"]
 	path = interfaces/pci/pcimem
 	url = https://github.com/billfarrow/pcimem
+[submodule "interfaces/logic_analyzer/saleae/SDQAnalyzer"]
+	path = interfaces/logic_analyzer/saleae/SDQAnalyzer
+	url = https://github.com/nezza/SDQAnalyzer
