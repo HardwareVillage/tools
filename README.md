@@ -1,2 +1,2 @@
-# tools
-Useful tools for hardware  hacking
+#  Hardware hacking tools
+Usefull tools and scripts for hardware  hacking
